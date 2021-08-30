@@ -9,8 +9,6 @@ export function Button() {
     console.log(counter);
   }
 
-
-
   return (
     <button onClick={increment}>
       {counter}

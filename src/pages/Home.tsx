@@ -10,9 +10,10 @@ export function Home() {
         <strong>Crie salas de Q&amp;A ao-vivo</strong>
         <p>Tire as dúvidas da sua audiência em tempo real</p>
       </aside>
+      
       <main>
         <div>
-          <img src="{logoImg}" alt="Letmeask" />
+          <img src={logoImg} alt="Letmeask" />
           <button>
             <img src="{googleIconImg}" alt="Logo do Google" />
             Crie sua sala com o Google
